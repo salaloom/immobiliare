@@ -10,6 +10,7 @@ git clone...
 npm install
 ```
 
+
 Pour travailler sur le front, ne pas oublier de compiler le fichier SASS : 
 
 ```
