@@ -11,6 +11,7 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 
 
 $color: aliceblue ;
+$navcolor: black;
 
 @import'../../node_modules/bootstrap/scss/bootstrap';
 
@@ -19,4 +20,8 @@ $color: aliceblue ;
 body{
     background-color : $color;
 
+}
+
+#navbar{
+    background-color: $navcolor;
 }
